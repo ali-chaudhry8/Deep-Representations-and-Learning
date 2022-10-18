@@ -14,3 +14,9 @@ from the corresponding week uploaded on moodle.
 | |--- npy                                               
 | |--- h5                                                   
 |Comp0188_Lab2.ipynb
+
+
+Each week (that includes accompanying code and dataset) has its own directory. Each directory then includes: • The source code for each week.
+
+Advantages of organised code and datasets
+• Keeps the learning by week using project structure neat and tidy • Allows you to reuse datasets across multiple projects.
