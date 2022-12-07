@@ -12,7 +12,7 @@ from the corresponding week uploaded on moodle.
 | |--- csv                                                         
 | |--- images                                    
 | |--- npy                                               
-| |--- h5 
+| |--- h5                                                                     
 | |--- npz                                                      
 |Comp0188_Lab2.ipynb
 
